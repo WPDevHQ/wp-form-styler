@@ -21,7 +21,7 @@ class Module extends Module_Base {
 			'Contact_Form_7', // What is it goes here.
 			'Formidable_Forms', // What is it goes here.
 			'Gravity_Forms', // What is it goes here.
-			'WPForms_Widget', // What is it goes here.
+			//'WPForms_Widget', // What is it goes here.
 			'Sendinblue_Emails', // Email Marketing.
 		];
 	}
